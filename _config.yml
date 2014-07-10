@@ -1,23 +1,23 @@
-title:            Site Title
-description:      Describe your website here.
-logo:             site-logo.png
-disqus_shortname:
+title:            My Website
+description:      My personal website of things.
+logo:             me.png
+disqus_shortname: briancain
 search:           true
 # Change url to your domain. Leave localhost server or blank when working locally.
 # You don't need to specify the protocol if you want it available on http and https. Example: //localhost:4000
-url:              http://localhost:4000
+url:              http://briancain.net
 
 # Owner/author information
 owner:
-  name:           Your Name
-  avatar:         bio-photo.jpg
-  email:          you@email.com
+  name:           Brian Cain
+  avatar:         brian-real-small.jpeg
+  email:          brianccain@gmail.com
   # Social networking links used in footer. Update and remove as you like.
-  twitter:
+  twitter:        brian_cain
   facebook:
-  github:
+  github:         briancain
   stackexchange:
-  linkedin:
+  linkedin:       briancain1
   instagram:
   flickr:
   tumblr:
@@ -33,21 +33,16 @@ bing_verify:
 # Links to include in top navigation
 # For external links add external: true
 links:
-  - title: About
+  - title: Me
     url: /about/
-  - title: Articles
-    url: /articles/
-  - title: Theme Setup
-    url: /theme-setup/
-  - title: Made Mistakes
-    url: http://mademistakes.com
-    external: true
+  - title: Blog
+    url: /blog/
 
 # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
-timezone:    America/New_York
+timezone:    America/Los_Angeles
 future:      true
-pygments:    true
-#highlighter: pygments
+#pygments:    true
+highlighter: pygments
 markdown:    kramdown
 
 # https://github.com/mojombo/jekyll/wiki/Permalinks
