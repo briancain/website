@@ -48,10 +48,11 @@ A link to my full resume can be found [here](https://dl.dropboxusercontent.com/u
 ## Contact
 
 - Puppet Labs
-  + 926 NW 13th Ave, Portland, OR 97209
+  + 308 SW 2nd Ave, Fifth Floor, Portland, OR 97204, United States
 - Email
   + brianccain [at] gmail [dot] com
   + brian.cain [at] puppetlabs [dot] com
 - irc
   + server: irc.freenode.net
     - nick: `brian
+    - channel: #puppet, #puppetdev, ...and more :)
