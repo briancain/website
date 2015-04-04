@@ -55,4 +55,4 @@ A link to my full resume can be found [here](https://dl.dropboxusercontent.com/u
 - irc
   + server: irc.freenode.net
     - nick: `brian
-    - channel: #puppet, #puppetdev, ...and more :)
+    - channel: #puppet, #puppet-dev, ...and more :)
