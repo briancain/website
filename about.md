@@ -23,7 +23,7 @@ Welcome to my site. Here's some information about myself.
 
 ### Experience
 
-- Puppet Labs (2014-_Present_)
+- Puppet (2014-_Present_)
   + Software Engineer
 - Argus Labs (2013-2014)
   + Software Developer
@@ -47,11 +47,11 @@ A link to my full resume can be found [here](https://dl.dropboxusercontent.com/u
 
 ## Contact
 
-- Puppet Labs
+- Puppet
   + 308 SW 2nd Ave, Fifth Floor, Portland, OR 97204, United States
 - Email
   + brianccain [at] gmail [dot] com
-  + brian.cain [at] puppetlabs [dot] com
+  + brian.cain [at] puppet [dot] com
 - irc
   + server: irc.freenode.net
     - nick: `brian
