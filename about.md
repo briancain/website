@@ -12,12 +12,14 @@ image:
 
 Welcome to my site. Here's some information about myself.
 
+<sub>PS: Thank you to <a href="http://duetarts.tumblr.com/" target="_blank">Maya</a> for my icon!</sub>
+
 ## Random Facts
 
 - Grew up around the Kansas City area on the Missouri and Kansas sides.
 - Musician since the age of 5
 - Enjoys learning about tea and coffee (and drinking it too)
-- Helped grow a strength community in Manhattan Kansas
+- Helped grow a strength community in Manhattan Kansas and currently contributes to one in Portland Oregon.
 
 ## Technical Details
 
