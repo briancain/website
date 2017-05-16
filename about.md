@@ -44,12 +44,10 @@ Welcome to my site. Here's some information about myself.
 
 ### Resume
 
-A link to my full resume can be found [here](https://dl.dropboxusercontent.com/u/20387923/briancain_resume.pdf).
+A link to my full resume can be found [here](https://docs.google.com/document/d/1UJNixM8rrRkE5sKoZhxvCyA9F9Rkgcfqf-PP-iwa9nI/edit?usp=sharing).
 
 ## Contact
 
-- Puppet
-  + 308 SW 2nd Ave, Fifth Floor, Portland, OR 97204, United States
 - Email
   + brianccain [at] gmail [dot] com
 - irc
