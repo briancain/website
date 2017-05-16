@@ -1,14 +1,14 @@
 ---
 layout: post
 title: "Data analysis with python, plot.ly, fitocracy, and myfitnesspal"
-modified: 2016-03-30 10:30:00 -0800
-tags: [automation,data,fitness,lifting,python,myfitnesspal]
-image:
-  feature: barbell.jpg
-  credit: 
-  creditlink: 
-comments: true
-share: 
+date: 2016-03-30 10:30:00 -0800
+tags:
+- automation
+- data
+- fitness
+- lifting
+- python
+- myfitnesspal
 ---
 
 Over this past week I've been having a lot of fun revisiting python and doing some data analysis with a myfitnesspal library. After losing a little bit of weight over the past few years (320+ pounds down to 210 pounds), and people asking me how I did it, I came to the realization that all of the data was right there waiting to be looked at! Not only that, but I am in a rare position that I've logged almost every single meal, snack, whatever, since August of 2013. Below are some of the graphs that came out of me playing with that data.
@@ -103,7 +103,7 @@ This chart was mostly for my own interest. I've only been powerlifting for about
 
 I feel like this also warrants some proof, or as Instagram would call it #ProgressPics #FitFam #LiftIt (why do they use so many hashtags in Instagram?) On the left is me about 2.5 years ago in 2013. I think this was a few months before I started logging all of my meals. The photo on the right was me a month ago!
 
-<blockquote class="instagram-media" data-instgrm-captioned data-instgrm-version="6" style=" background:#FFF; border:0; border-radius:3px; box-shadow:0 0 1px 0 rgba(0,0,0,0.5),0 1px 10px 0 rgba(0,0,0,0.15); margin: 1px; max-width:658px; padding:0; width:99.375%; width:-webkit-calc(100% - 2px); width:calc(100% - 2px);"><div style="padding:8px;"> <div style=" background:#F8F8F8; line-height:0; margin-top:40px; padding:50.0% 0; text-align:center; width:100%;"> <div style=" background:url(data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACwAAAAsCAMAAAApWqozAAAAGFBMVEUiIiI9PT0eHh4gIB4hIBkcHBwcHBwcHBydr+JQAAAACHRSTlMABA4YHyQsM5jtaMwAAADfSURBVDjL7ZVBEgMhCAQBAf//42xcNbpAqakcM0ftUmFAAIBE81IqBJdS3lS6zs3bIpB9WED3YYXFPmHRfT8sgyrCP1x8uEUxLMzNWElFOYCV6mHWWwMzdPEKHlhLw7NWJqkHc4uIZphavDzA2JPzUDsBZziNae2S6owH8xPmX8G7zzgKEOPUoYHvGz1TBCxMkd3kwNVbU0gKHkx+iZILf77IofhrY1nYFnB/lQPb79drWOyJVa/DAvg9B/rLB4cC+Nqgdz/TvBbBnr6GBReqn/nRmDgaQEej7WhonozjF+Y2I/fZou/qAAAAAElFTkSuQmCC); display:block; height:44px; margin:0 auto -44px; position:relative; top:-22px; width:44px;"></div></div> <p style=" margin:8px 0 0 0; padding:0 4px;"> <a href="https://www.instagram.com/p/BCZdIc9Nn7O/" style=" color:#000; font-family:Arial,sans-serif; font-size:14px; font-style:normal; font-weight:normal; line-height:17px; text-decoration:none; word-wrap:break-word;" target="_blank">I know it isn&#39;t #transformationtuesday yet but I gotta post this anyway. It&#39;s been about 2.5 years since I started taking my diet seriously and lifting seriously. The photo on the left is from summer 2013 and the one on the right is tonight in 2016. Down about 110 pounds and stronger than I was in 2013!</a></p> <p style=" color:#c9c8cd; font-family:Arial,sans-serif; font-size:14px; line-height:17px; margin-bottom:0; margin-top:8px; overflow:hidden; padding:8px 0 7px; text-align:center; text-overflow:ellipsis; white-space:nowrap;">A photo posted by Brian Cain (@brian.cain) on <time style=" font-family:Arial,sans-serif; font-size:14px; line-height:17px;" datetime="2016-03-01T04:54:36+00:00">Feb 29, 2016 at 8:54pm PST</time></p></div></blockquote>
+<center><blockquote class="instagram-media" data-instgrm-captioned data-instgrm-version="6" style=" background:#FFF; border:0; border-radius:3px; box-shadow:0 0 1px 0 rgba(0,0,0,0.5),0 1px 10px 0 rgba(0,0,0,0.15); margin: 1px; max-width:658px; padding:0; width:99.375%; width:-webkit-calc(100% - 2px); width:calc(100% - 2px);"><div style="padding:8px;"> <div style=" background:#F8F8F8; line-height:0; margin-top:40px; padding:50.0% 0; text-align:center; width:100%;"> <div style=" background:url(data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACwAAAAsCAMAAAApWqozAAAAGFBMVEUiIiI9PT0eHh4gIB4hIBkcHBwcHBwcHBydr+JQAAAACHRSTlMABA4YHyQsM5jtaMwAAADfSURBVDjL7ZVBEgMhCAQBAf//42xcNbpAqakcM0ftUmFAAIBE81IqBJdS3lS6zs3bIpB9WED3YYXFPmHRfT8sgyrCP1x8uEUxLMzNWElFOYCV6mHWWwMzdPEKHlhLw7NWJqkHc4uIZphavDzA2JPzUDsBZziNae2S6owH8xPmX8G7zzgKEOPUoYHvGz1TBCxMkd3kwNVbU0gKHkx+iZILf77IofhrY1nYFnB/lQPb79drWOyJVa/DAvg9B/rLB4cC+Nqgdz/TvBbBnr6GBReqn/nRmDgaQEej7WhonozjF+Y2I/fZou/qAAAAAElFTkSuQmCC); display:block; height:44px; margin:0 auto -44px; position:relative; top:-22px; width:44px;"></div></div> <p style=" margin:8px 0 0 0; padding:0 4px;"> <a href="https://www.instagram.com/p/BCZdIc9Nn7O/" style=" color:#000; font-family:Arial,sans-serif; font-size:14px; font-style:normal; font-weight:normal; line-height:17px; text-decoration:none; word-wrap:break-word;" target="_blank">I know it isn&#39;t #transformationtuesday yet but I gotta post this anyway. It&#39;s been about 2.5 years since I started taking my diet seriously and lifting seriously. The photo on the left is from summer 2013 and the one on the right is tonight in 2016. Down about 110 pounds and stronger than I was in 2013!</a></p> <p style=" color:#c9c8cd; font-family:Arial,sans-serif; font-size:14px; line-height:17px; margin-bottom:0; margin-top:8px; overflow:hidden; padding:8px 0 7px; text-align:center; text-overflow:ellipsis; white-space:nowrap;">A photo posted by Brian Cain (@brian.cain) on <time style=" font-family:Arial,sans-serif; font-size:14px; line-height:17px;" datetime="2016-03-01T04:54:36+00:00">Feb 29, 2016 at 8:54pm PST</time></p></div></blockquote></center>
 <script async defer src="//platform.instagram.com/en_US/embeds.js"></script>
 
 # Resources

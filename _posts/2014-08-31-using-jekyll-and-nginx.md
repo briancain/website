@@ -1,14 +1,12 @@
 ---
 layout: post
 title: "Using Jekyll and Nginx"
-modified: 2014-08-31 22:00:00 -0700
-tags: [jekyll,ruby,nginx,web]
-image:
-  feature: 
-  credit: 
-  creditlink: 
-comments: true
-share: 
+date: 2014-08-31 22:00:00 -0700
+tags:
+- jekyll
+- ruby
+- nginx
+- web
 ---
 
 Thanks to the ruby gem [Jekyll](http://jekyllrb.com/), it's now easier than ever to have a simple dynamic website with just a few commands and a little bit of ruby and markdown.

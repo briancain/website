@@ -1,14 +1,11 @@
 ---
-layout: page
-permalink: /about/
-title: About Me
-tags: [aboutme, briancain]
-modified: 2014-07-20
-image:
-  feature: about.jpg
-  credit: Unknown
-  creditlink: http://mademistakes.com
+layout: minimal
+title: "About me"
+permalink: /about/index.html
+description: "Some description about Victor Igor..."
 ---
+
+<img itemprop="image" class="img-rounded about_perfil" src="/images/brian-new.png" alt="My profile">
 
 Welcome to my site. Here's some information about myself.
 
@@ -25,7 +22,9 @@ Welcome to my site. Here's some information about myself.
 
 ### Experience
 
-- Puppet (2014-_Present_)
+- HashiCorp (2017-Present)
+  + Software Engineer
+- Puppet (2014-2017)
   + Software Engineer
 - Argus Labs (2013-2014)
   + Software Developer
@@ -53,8 +52,16 @@ A link to my full resume can be found [here](https://dl.dropboxusercontent.com/u
   + 308 SW 2nd Ave, Fifth Floor, Portland, OR 97204, United States
 - Email
   + brianccain [at] gmail [dot] com
-  + brian.cain [at] puppet [dot] com
 - irc
   + server: irc.freenode.net
     - nick: `brian
-    - channel: #puppet, #puppet-dev, ...and more :)
+
+<h2>My projects</h2>
+
+<div class="aboutme">
+  <ul class="recent">
+    {% for project in site.projects %}
+        <li><a href="{{ project.url}}"><h3 class="project-name" itemprop="name">{{ project.name }}</h3></a></li>
+      {% endfor %}
+  </ul>
+</div>

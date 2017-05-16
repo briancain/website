@@ -1,14 +1,12 @@
 ---
 layout: post
 title: "Starting Your Own Dotfiles"
-modified: 2014-11-21 17:30:00 -0800
-tags: [dotfiles,configuration,automation,nix]
-image:
-  feature: 
-  credit: 
-  creditlink: 
-comments: true
-share: 
+date: 2014-11-21 17:30:00 -0800
+tags:
+- dotfiles
+- configuration
+- automation
+- nix
 ---
 
 ## What the heck are dotfiles, and why should you care?

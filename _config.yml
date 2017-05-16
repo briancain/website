@@ -1,67 +1,47 @@
-title:            Brian's Blog
-description:      My personal website of things.
-logo:             brian-new.png
-disqus_shortname: briancain
-search:           true
-# Change url to your domain. Leave localhost server or blank when working locally.
-# You don't need to specify the protocol if you want it available on http and https. Example: //localhost:4000
-url:              http://briancain.net
-#url:              http://localhost:4000
+# Site settings
+title: Brian Cain - Software Engineer
+description: "A blog about lorem ipsum ..."
+baseurl: "" # for test: remove string '/space-jekyll-templa' to ''
+url: "http://briancain.net" # for test: remove string 'http://victorvoid.github.io' to '' but in production: 'https://yourusername.githu.io'
+# User settings
+username: brian cain
+user_title: Brian Cain
+email: brianccain@gmail.com
+twitter_username: brian_cain
+github_username:  briancain
+disqus_username: briancain
+profile_picture: "./images/brian-new.png"
 
-# Owner/author information
-owner:
-  name:           Brian Cain
-  avatar:         brian.jpg
-  email:          brianccain@gmail.com
-  # Social networking links used in footer. Update and remove as you like.
-  twitter:        brian_cain
-  facebook:
-  github:         briancain
-  stackexchange:
-  linkedin:       briancain1
-  instagram:
-  flickr:
-  tumblr:
-  # For Google Authorship https://plus.google.com/authorship
-  google_plus:
+# Build settings
+markdown: kramdown
+highlighter: rouge
+permalink: /:title/
 
-# Analytics and webmaster tools stuff goes here
-google_analytics:
-google_verify:
-# https://ssl.bing.com/webmaster/configure/verify/ownership Option 2 content= goes here
-bing_verify:
 
-# Links to include in top navigation
-# For external links add external: true
+# html minify
+compress_html:
+  clippings: all
+  comments: all
+  endings: []
+  profile: false
+
+# Links to include in menu navigation
 links:
-  - title: Me
-    url: /about/
-  - title: Blog
-    url: /blog/
-
-# http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
-timezone:    America/Los_Angeles
-future:      true
-#pygments:    true
-highlighter: pygments
-markdown:    kramdown
-
-# https://github.com/mojombo/jekyll/wiki/Permalinks
-permalink:   /:categories/:title/
-
-kramdown:
-  auto_ids: true
-  footnote_nr: 1
-  entity_output: as_char
-  toc_levels: 1..6
-  enable_coderay: false
-
-  coderay:
-    line_numbers:
-    line_numbers_start: 1
-    tab_width: 4
-    bold_every: 10
-    css: class
-
-include: [".htaccess"]
-exclude: ["lib", "config.rb", "Gemfile", "Capfile", "README.md", "LICENSE", "Gemfile.lock", "config", "log", "Rakefile", "Rakefile.rb", "tmp", "less", "*.sublime-project", "*.sublime-workspace", "test", "spec", "Gruntfile.js", "package.json", "node_modules"]
+  - title: home
+    url: /
+  - title: my posts
+    url: /posts
+  - title: series
+    url: /series
+  - title: tags
+    url: /tags
+  - title: about me
+    url: /about
+# projects in header index
+projects:
+  - name: vmfloaty
+    url: https://github.com/briancain/vmfloaty
+  - name: vagrant-vmpooler
+    url: https://github.com/briancain/vagrant-vmpooler
+# exclude my node related stuff
+exclude: ['package.json', 'src', 'node_modules']

@@ -1,14 +1,13 @@
 ---
 layout: post
 title: "Vagrant Provider Development Explained: A quickstart guide"
-modified: 2016-11-29 18:30:00 -0800
-tags: [vagrant,ruby,provider,vmpooler,automation]
-image:
-  feature:
-  credit:
-  creditlink:
-comments: true
-share:
+date: 2016-11-29 18:30:00 -0800
+tags:
+- vagrant
+- ruby
+- provider
+- vmpooler
+- automation
 ---
 
 I found myself in a dilemma a few months ago: I had written a command line tool called [vmfloaty](https://github.com/briancain/vmfloaty) for [vmpooler](https://github.com/puppetlabs/vmpooler), and that helped reduce the amount of time I spent worrying about how to get virtual machines to do my job at [Puppet](https://puppet.com/). But I still had an issue with provisioning and managing the state of those virtual machines in a timely manner.
