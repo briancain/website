@@ -19,4 +19,4 @@ The full paper can be found [here](https://www.usenix.org/system/files/conferenc
 
 Below are the slides I used for my talk at K-State about the paper.
 
-<iframe src="https://docs.google.com/presentation/d/1EFOpoGHbaJnwnt-1A4qbCI7-81H47AYXXKqw-s7Us9g/embed?start=false&loop=false&delayms=3000" frameborder="0" width="480" height="389" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
+<center><iframe src="https://docs.google.com/presentation/d/1EFOpoGHbaJnwnt-1A4qbCI7-81H47AYXXKqw-s7Us9g/embed?start=false&loop=false&delayms=3000" frameborder="0" width="480" height="389" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe></center>
