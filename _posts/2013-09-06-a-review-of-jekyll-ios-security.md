@@ -1,14 +1,11 @@
 ---
 layout: post
 title: "A Review of Jekyll iOS Security"
-modified: 2013-09-06
-tags: [security,ios,app]
-image:
-  feature: 
-  credit: 
-  creditlink: 
-comments: true
-share: 
+date: 2013-09-06
+tags:
+- security
+- ios
+- app
 ---
 
 Earlier this week I did a review of the paper "Jekyll on iOS: When Benign Apps Become Evil"; A paper from USENIX 22 presented a couple weeks back. The main focus of the paper is to present a model that allows malicious attackers to design a seemingly innocent iOS app that can accomplish several powerful attacks including taking photos, sending SMS/Email/Tweets, exploiting the OS kernel, and a _Trampoline Attack_ that takes advantage of Safaris extra privileges. They call this model or app Jekyll because of how the app behaves. If you're familiar with the old story [_Strange Case of Dr Jekyll and Mr Hyde_](https://en.wikipedia.org/wiki/Strange_Case_of_Dr_Jekyll_and_Mr_Hyde), you should have a good understanding of the basic idea.

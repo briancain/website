@@ -1,14 +1,9 @@
 ---
 layout: post
 title: "Puppet, Gatling, And Jenkins Together"
-modified: 2013-09-02
-tags: [puppet]
-image:
-  feature: 
-  credit:
-  creditlink:
-comments: true
-share:
+date: 2013-09-02
+tags:
+- puppet
 ---
 
 Puppet Gatling is a Jenkins-CI plugin that post-processes Gatling simulation data to generate useful reports for load-testing Puppet. Using this tool, users are able to discover a clear difference in performance between various versions of open source Puppet and Puppet Enterprise.
