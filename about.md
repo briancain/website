@@ -2,12 +2,12 @@
 layout: minimal
 title: "About me"
 permalink: /about/index.html
-description: "Some description about Victor Igor..."
+description: "Some description about Brian Cain..."
 ---
 
 <img itemprop="image" class="img-rounded about_perfil" src="/images/brian-new.png" alt="My profile">
 
-Welcome to my site. Here's some information about myself.
+Welcome to my site. Here's some information about myself!
 
 <sub>PS: Thank you to <a href="http://duetarts.tumblr.com/" target="_blank">Maya</a> for my icon!</sub>
 
