@@ -1,6 +1,6 @@
 # Site settings
 title: Brian Cain - Software Engineer
-description: "A blog about lorem ipsum ..."
+description: "A blog about Brian Cain"
 baseurl: "" # for test: remove string '/space-jekyll-templa' to ''
 url: "http://briancain.net" # for test: remove string 'http://victorvoid.github.io' to '' but in production: 'https://yourusername.githu.io'
 # User settings
@@ -31,8 +31,8 @@ links:
     url: /
   - title: my posts
     url: /posts
-  - title: series
-    url: /series
+    #- title: series
+    #- url: /series
   - title: tags
     url: /tags
   - title: about me
