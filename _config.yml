@@ -40,6 +40,8 @@ links:
     url: /about
 # projects in header index
 projects:
+  - name: vagrant
+    url: https://github.com/mitchellh/vagrant
   - name: vmfloaty
     url: https://github.com/briancain/vmfloaty
   - name: vagrant-vmpooler
