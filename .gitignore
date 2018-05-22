@@ -4,3 +4,4 @@ _old-posts
 codekit-config.json
 node_modules
 Gemfile.lock
+public
