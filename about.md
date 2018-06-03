@@ -9,6 +9,9 @@ layout: page
 living in Portland, Oregon. I grew up in Kansas City and spent most of my life
 in Kansas. I love making coffee and tea, making video games, and cycling as well.</p>
 
+<img src="/assets/images/qubit.png" alt="Qubit" style="width: 10%;display: block;margin: 0 auto" align="left">
+<br><br>
+
 <p>Thanks for visiting!</p>
 
 Photo by [Carlos Salazar](http://instagram.com/rzls); Website theme based on [Indigo](https://github.com/sergiokopplin/indigo)
