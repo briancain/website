@@ -9,6 +9,7 @@ tag:
 - elements
 star: true
 category: blog
+projects: true
 author: briancain
 description: Markdown summary with different options
 ---
