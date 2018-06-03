@@ -7,7 +7,7 @@ headerImage: false
 tag:
 - markdown
 - elements
-star: true
+star: false
 category: blog
 projects: true
 author: briancain

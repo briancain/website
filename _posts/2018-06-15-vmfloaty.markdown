@@ -1,0 +1,23 @@
+---
+title: ":swimmer: vmfloaty: A CLI helper tool for Puppet vmpooler to help you stay afloat"
+layout: post
+date: 2018-05-01 06:30
+image: /assets/images/markdown.jpg
+headerImage: true
+tag:
+- cli
+- virtual
+- tool
+- api
+- ruby
+- puppet
+star: false
+category: blog
+projects: true
+author: briancain
+description: Description here
+---
+
+## Summary:
+
+Detail project here
