@@ -16,16 +16,16 @@ Photo by [Carlos Salazar](http://instagram.com/rzls); Website theme based on [In
 <h2>Experience</h2>
 
 2017-Present
-:   **Software Enigineer**; [HashiCorp](https://www.hashicorp.com/) (Portland, OR)
+:   **Software Engineer**; [HashiCorp](https://www.hashicorp.com/) (Portland, OR)
 
     *Maintain and develop new features for Vagrant, a tool that helps developers
     share development environments.*
 
 2014-2017
-:   **Software Enigineer**; [Puppet Labs](https://www.puppet.com) (Portland, OR)
+:   **Software Engineer**; [Puppet Labs](https://www.puppet.com) (Portland, OR)
 
     *Improved the enterprise installer, developed an orchestration platform for
-    deploying applications, kickstarted a software analytics team*
+    deploying applications, kickstarted a software analytics team and toolkit*
 
 
 2013-2014
