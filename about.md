@@ -11,7 +11,7 @@ in Kansas. I love making coffee and tea, making video games, and cycling as well
 
 <p>Thanks for visiting!</p>
 
-Photo by [Carlos Salazar]()
+Photo by [Carlos Salazar](http://instagram.com/rzls); Website theme based on [Indigo](https://github.com/sergiokopplin/indigo)
 
 <h2>Experience</h2>
 
@@ -51,11 +51,3 @@ Photo by [Carlos Salazar]()
 
 
 _A link to my full resume can be found [here](https://docs.google.com/document/d/1UJNixM8rrRkE5sKoZhxvCyA9F9Rkgcfqf-PP-iwa9nI/edit)!_
-
-<h2>Projects</h2>
-
-<ul>
-  <li><a href="https://github.com/">Lorem Lorem</a></li>
-  <li><a href="https://github.com/">Ipsum Dolor</a></li>
-  <li><a href="https://github.com/">Dolor Lorem</a></li>
-</ul>

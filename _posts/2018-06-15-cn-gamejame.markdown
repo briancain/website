@@ -2,7 +2,7 @@
 title: "Cartoon Network GameJam"
 layout: post
 date: 2018-05-02 06:30
-image: /assets/images/markdown.jpg
+image: /assets/images/okko.png
 headerImage: true
 tag:
 - gamedev
